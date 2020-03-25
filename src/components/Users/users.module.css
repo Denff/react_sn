@@ -1,0 +1,16 @@
+.pages span {
+    padding: 0 5px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px 2px;
+    border: 1px solid #ccc;
+}
+
+.selectedPage {
+    font-weight: 700;
+}
+
+img.userPhoto {
+    width: 100px;
+    border-radius: 50px;
+}
